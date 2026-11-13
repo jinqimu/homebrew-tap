@@ -1,6 +1,6 @@
 cask "transend" do
-  version "0.1.6"
-  sha256 "2c1d8a921447fdaed5f2e8c04fa49fac888a97648cbb5a5093be33ca4d527260"
+  version "0.1.7"
+  sha256 "e2257cad258870e801660fe60d865f4328bf2be558902a376a526a4a3a22cddf"
 
   url "https://github.com/jinqimu/Transend/releases/download/v#{version}/Transend-#{version}.dmg"
   name "Transend"
